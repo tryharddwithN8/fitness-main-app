@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.php": "php",
+        "*.dat": "clojure",
+        "stdio.h": "c"
+    }
+}
