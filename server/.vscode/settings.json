@@ -2,6 +2,8 @@
     "files.associations": {
         "*.php": "php",
         "*.dat": "clojure",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "smtp.h": "c",
+        "mime.h": "c"
     }
 }
